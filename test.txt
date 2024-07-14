@@ -1,3 +1,7 @@
 rm test.txt
+<<<<<<< HEAD
 creat dev
 merge dev
+=======
+在分支上修改文件
+>>>>>>> dev
